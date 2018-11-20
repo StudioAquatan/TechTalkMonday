@@ -19,3 +19,10 @@ Tech Talk Tuesdayは以下の集まりを参考にして運営しています．
 - [Open Go Friday](https://mercari.connpass.com/event/83766/)
 - [Frontend Night](https://github.com/wantedly/frontend_night)
 - [Microservice Monday](https://github.com/wantedly/microservices_monday)
+
+### ネタが無くて困ったときに眺める場所
+- [goz](http://goz.hexacosa.net/)
+- [dev.to](https://dev.to/)
+- [Qiitaのトレンド](https://qiita.com/)
+- [Google Developers](https://developers.googleblog.com/)
+- [Medium Technology topic](https://medium.com/topic/technology)
